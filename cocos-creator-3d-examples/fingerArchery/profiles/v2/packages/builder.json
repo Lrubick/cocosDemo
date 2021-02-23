@@ -1,0 +1,75 @@
+{
+  "common": {
+    "platform": "web-mobile",
+    "md5Cache": true,
+    "outputName": "web-mobile"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1611129093110": {
+        "id": "web-mobile",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "name": "fingerArchery",
+          "platform": "web-mobile",
+          "buildPath": "build",
+          "debug": false,
+          "md5Cache": true,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mergeStartScene": false,
+          "startScene": "9cf954c7-a1f1-4374-b4f5-3ed5eb59e188",
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "experimentalEraseModules": false,
+          "scenes": [
+            {
+              "url": "db://assets/main.scene",
+              "uuid": "9cf954c7-a1f1-4374-b4f5-3ed5eb59e188"
+            }
+          ],
+          "modules": {
+            "includeModules": [
+              "base",
+              "gfx-webgl",
+              "gfx-webgl2",
+              "ui",
+              "particle",
+              "physics-cannon",
+              "physics-framework",
+              "audio",
+              "tween",
+              "terrain"
+            ]
+          },
+          "packages": {
+            "web-mobile": {
+              "embedWebDebugger": false,
+              "orientation": "auto"
+            }
+          },
+          "designHeight": 960,
+          "designWidth": 1280,
+          "forceCombileEngine": false,
+          "inlineSpriteFrames": false,
+          "renderPipeline": "fd8ec536-a354-4a17-9c74-4f3883c378c8",
+          "customJointTextureLayouts": [],
+          "outputName": "web-mobile"
+        },
+        "message": "build success in 52689 ms!",
+        "logMap": {
+          "log": 19,
+          "warn": 2,
+          "error": 0,
+          "debug": 34
+        }
+      }
+    }
+  },
+  "version": {
+    "bytedance-mini-game": "1.0.4.1",
+    "builder": "1.2.3"
+  },
+  "__version__": "1.2.6"
+}

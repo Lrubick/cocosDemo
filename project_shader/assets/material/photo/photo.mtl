@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.Material",
+  "_name": "photo",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "a0806caa-84cd-41fb-85bd-71cdd881a4c6"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "oldLevel": 0.4
+      },
+      "defines": {
+        "USE_TEXTURE": true,
+        "USE_OLD_PHOTO": true
+      }
+    }
+  }
+}

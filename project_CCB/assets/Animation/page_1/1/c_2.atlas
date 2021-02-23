@@ -1,0 +1,83 @@
+
+c_2.png
+size: 870,605
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cc
+  rotate: true
+  xy: 2, 2
+  size: 601, 723
+  orig: 601, 723
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 777, 396
+  size: 21, 20
+  orig: 23, 22
+  offset: 1, 1
+  index: -1
+hair
+  rotate: false
+  xy: 727, 388
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 823, 436
+  size: 14, 15
+  orig: 16, 18
+  offset: 1, 1
+  index: -1
+hand2
+  rotate: false
+  xy: 749, 277
+  size: 13, 14
+  orig: 15, 17
+  offset: 1, 1
+  index: -1
+leaf1
+  rotate: false
+  xy: 727, 293
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 727, 242
+  size: 20, 49
+  orig: 20, 49
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 777, 418
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 727, 193
+  size: 18, 47
+  orig: 18, 47
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 727, 327
+  size: 38, 59
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 727, 453
+  size: 141, 150
+  orig: 141, 150
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+hc.png
+size: 301,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 258, 41
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 134, 58
+  size: 24, 122
+  orig: 28, 127
+  offset: 3, 4
+  index: -1
+3
+  rotate: false
+  xy: 76, 2
+  size: 56, 80
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 134, 4
+  size: 142, 19
+  orig: 144, 21
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 2, 2
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 134, 25
+  size: 31, 91
+  orig: 31, 93
+  offset: 0, 0
+  index: -1

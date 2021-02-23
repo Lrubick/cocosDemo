@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "8218721a-cfcb-471c-9cf8-b8c34a5b97d0",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/src/GameMgr.js",
+    "importerSettings": 0
+  }
+}

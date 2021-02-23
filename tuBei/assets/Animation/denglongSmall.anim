@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "denglongSmall",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0.5,
+          "value": [
+            174,
+            553
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.5,
+          "value": [
+            183.3,
+            561.6
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2.5,
+          "value": [
+            174,
+            553
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "textShow",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6.833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "text1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 4.833333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "text2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 5.833333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "text3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 6.833333333333333,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

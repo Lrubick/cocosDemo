@@ -1,0 +1,578 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mainAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.85,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "hengFu": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 1,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "shang": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.5833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.75,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.15,
+                "y": 1.1
+              },
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "shang2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.15,
+                "y": 1.1
+              },
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "qian": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.0333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 1.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.15,
+                "y": 1.1
+              },
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.3666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "left/0": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 19.628
+            }
+          ]
+        }
+      },
+      "left/21": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.85,
+              "value": 20,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -47.768
+            }
+          ]
+        }
+      },
+      "left/01": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.85,
+              "value": 21,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -48.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1833333333333333,
+              "value": -113.567
+            }
+          ]
+        }
+      },
+      "left/shi": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.85,
+              "value": 22,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -49.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1833333333333333,
+              "value": -114.567,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.35,
+              "value": -179.366
+            }
+          ]
+        }
+      },
+      "left/shu": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.85,
+              "value": 23,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -50.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1833333333333333,
+              "value": -115.567,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.35,
+              "value": -180.366,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": -246.707
+            }
+          ]
+        }
+      },
+      "left/bu": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.85,
+              "value": 24,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -51.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1833333333333333,
+              "value": -116.567,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.35,
+              "value": -181.366,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": -247.707,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.6833333333333333,
+              "value": -316.786
+            }
+          ]
+        }
+      },
+      "left/fan": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.85,
+              "value": 25,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -52.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1833333333333333,
+              "value": -117.567,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.35,
+              "value": -182.366,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": -248.707,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.6833333333333333,
+              "value": -317.786,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.85,
+              "value": -386.698
+            }
+          ]
+        }
+      },
+      "right/0": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.85,
+              "value": 19.628
+            }
+          ]
+        }
+      },
+      "right/21": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.85,
+              "value": 20,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -47.768
+            }
+          ]
+        }
+      },
+      "right/1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.85,
+              "value": 21,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -48.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1833333333333333,
+              "value": -113.567
+            }
+          ]
+        }
+      },
+      "right/shi": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.85,
+              "value": 22,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -49.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1833333333333333,
+              "value": -114.567,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.35,
+              "value": -179.366
+            }
+          ]
+        }
+      },
+      "right/shu": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.85,
+              "value": 23,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -50.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1833333333333333,
+              "value": -115.567,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.35,
+              "value": -180.366,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": -246.707
+            }
+          ]
+        }
+      },
+      "right/bu": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.85,
+              "value": 24,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -51.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1833333333333333,
+              "value": -116.567,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.35,
+              "value": -181.366,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": -247.707,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.6833333333333333,
+              "value": -316.786
+            }
+          ]
+        }
+      },
+      "right/fan": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 83,
+              "curve": "linear"
+            },
+            {
+              "frame": 0.85,
+              "value": 25,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -52.5,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.1833333333333333,
+              "value": -117.567,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.35,
+              "value": -182.366,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": -248.707,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.6833333333333333,
+              "value": -317.786,
+              "curve": "linear"
+            },
+            {
+              "frame": 1.85,
+              "value": -386.698
+            }
+          ]
+        }
+      },
+      "Cattle": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 806.386
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -4.651
+            },
+            {
+              "frame": 0.75,
+              "value": 2.112
+            }
+          ]
+        }
+      },
+      "shadow": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

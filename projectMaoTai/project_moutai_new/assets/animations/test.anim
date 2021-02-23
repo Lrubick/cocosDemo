@@ -1,0 +1,115 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "test",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 1,
+    "wrapMode": 1,
+    "events": [],
+    "_duration": 0.2,
+    "_keys": [
+      [
+        0,
+        0.2
+      ],
+      [
+        0,
+        0.2
+      ],
+      [
+        0,
+        0.2
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          "eulerAngles"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__type__": "cc.Vec3",
+              "x": -7.4905892335883495,
+              "y": -59.57917228345091,
+              "z": 2.28665533562367
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 1,
+              "y": 1,
+              "z": 1
+            }
+          ],
+          "easingMethods": {}
+        }
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "eulerAngles"
+        ],
+        "data": {
+          "keys": 1,
+          "values": [
+            {
+              "__type__": "cc.Vec3",
+              "x": 6.720502978155179,
+              "y": -52.02409633315206,
+              "z": 4.625432394145405
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": -71.733,
+              "y": 11.335,
+              "z": 8.079
+            }
+          ],
+          "easingMethods": {}
+        }
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 2
+          },
+          "eulerAngles"
+        ],
+        "data": {
+          "keys": 2,
+          "values": [
+            {
+              "__type__": "cc.Vec3",
+              "x": 68.40458995613605,
+              "y": 19.234462607284797,
+              "z": 15.51043853532211
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 28.25,
+              "y": 72.78,
+              "z": 66.259
+            }
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 1795356831
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head"
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm"
+  }
+]

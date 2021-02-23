@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "peopleWalk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.7666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0764def8-a0a6-4c03-a8cd-b5988e5bd6fd"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "f960fb5d-5bb9-4eb9-976a-ab931d4177b5"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "73d876f4-f81f-4022-93b7-bf0adbb3a3b7"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "70edd5bb-1dac-498f-9043-3640a5783a57"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "3e332663-a69a-4859-a915-5437031cdfaa"
+            }
+          },
+          {
+            "frame": 1.25,
+            "value": {
+              "__uuid__": "b8106d0d-d5e2-4afb-a2cb-8593a77dde9e"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "e9ab4408-5d0c-49b1-8ab8-b6ad3b2458ba"
+            }
+          },
+          {
+            "frame": 1.75,
+            "value": {
+              "__uuid__": "4b9765c1-b728-4854-9c8a-cf4c536cd601"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

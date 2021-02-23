@@ -1,0 +1,55 @@
+
+c_2_1.png
+size: 255,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hudieshenti
+  rotate: true
+  xy: 89, 11
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+Pugongying1
+  rotate: false
+  xy: 188, 45
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: false
+  xy: 2, 2
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+cnibang2
+  rotate: false
+  xy: 134, 26
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+pugongying2
+  rotate: true
+  xy: 134, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+pugongying3
+  rotate: false
+  xy: 221, 11
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pugongying4
+  rotate: false
+  xy: 188, 2
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1

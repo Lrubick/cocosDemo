@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "ebd2eb22-0f72-44b4-afcd-5c37f5bd9eb5",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/GotoScene.js",
+    "importerSettings": 0
+  }
+}

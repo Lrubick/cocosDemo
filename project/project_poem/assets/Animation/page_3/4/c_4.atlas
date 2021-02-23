@@ -1,0 +1,13 @@
+
+c_4.png
+size: 206,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-flower
+  rotate: false
+  xy: 2, 2
+  size: 202, 263
+  orig: 202, 263
+  offset: 0, 0
+  index: -1

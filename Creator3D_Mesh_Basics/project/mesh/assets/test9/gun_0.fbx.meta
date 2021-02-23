@@ -1,0 +1,76 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f8864f2c-b94b-4df8-9c36-b21ee5efcb2b",
+  "files": [],
+  "subMetas": {
+    "6e55e": {
+      "importer": "gltf-mesh",
+      "uuid": "f8864f2c-b94b-4df8-9c36-b21ee5efcb2b@6e55e",
+      "displayName": "",
+      "id": "6e55e",
+      "name": "node_id3.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "02fa1": {
+      "importer": "gltf-material",
+      "uuid": "f8864f2c-b94b-4df8-9c36-b21ee5efcb2b@02fa1",
+      "displayName": "",
+      "id": "02fa1",
+      "name": "Material_32.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "6d61d": {
+      "importer": "gltf-scene",
+      "uuid": "f8864f2c-b94b-4df8-9c36-b21ee5efcb2b@6d61d",
+      "displayName": "",
+      "id": "6d61d",
+      "name": "gun_0.prefab",
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "f8864f2c-b94b-4df8-9c36-b21ee5efcb2b@6d61d",
+    "assetFinder": {
+      "meshes": [
+        "f8864f2c-b94b-4df8-9c36-b21ee5efcb2b@6e55e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f8864f2c-b94b-4df8-9c36-b21ee5efcb2b@02fa1"
+      ],
+      "scenes": [
+        "f8864f2c-b94b-4df8-9c36-b21ee5efcb2b@6d61d"
+      ]
+    },
+    "legacyFbxImporter": true
+  }
+}

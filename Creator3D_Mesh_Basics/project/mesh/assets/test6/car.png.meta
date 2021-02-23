@@ -1,0 +1,41 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "ef75f47f-7a9a-4861-96b8-65a23b329645",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "ef75f47f-7a9a-4861-96b8-65a23b329645@6c48a",
+      "displayName": "car",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ef75f47f-7a9a-4861-96b8-65a23b329645"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "ef75f47f-7a9a-4861-96b8-65a23b329645@6c48a",
+    "hasAlpha": false
+  }
+}

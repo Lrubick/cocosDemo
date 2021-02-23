@@ -1,0 +1,83 @@
+
+c_7.png
+size: 499,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_8dbei1
+  rotate: false
+  xy: 2, 16
+  size: 129, 144
+  orig: 131, 146
+  offset: 1, 1
+  index: -1
+c_8djuice1
+  rotate: false
+  xy: 133, 33
+  size: 115, 127
+  orig: 118, 127
+  offset: 0, 0
+  index: -1
+c_8dlemon1
+  rotate: false
+  xy: 300, 15
+  size: 73, 54
+  orig: 75, 56
+  offset: 1, 1
+  index: -1
+c_8dlemon2
+  rotate: false
+  xy: 417, 4
+  size: 71, 71
+  orig: 73, 73
+  offset: 1, 1
+  index: -1
+c_8dxiguan
+  rotate: true
+  xy: 250, 71
+  size: 89, 162
+  orig: 89, 162
+  offset: 0, 0
+  index: -1
+c_8dyezi1
+  rotate: false
+  xy: 414, 77
+  size: 35, 83
+  orig: 35, 83
+  offset: 0, 0
+  index: -1
+c_8dyezi2
+  rotate: true
+  xy: 250, 8
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+c_8dyezi3
+  rotate: false
+  xy: 375, 19
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+c_8dyezi4
+  rotate: true
+  xy: 133, 2
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+c_8dyezi5
+  rotate: false
+  xy: 451, 83
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+c_8dyezi6
+  rotate: false
+  xy: 451, 118
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1

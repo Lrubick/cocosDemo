@@ -1,0 +1,83 @@
+
+2.png
+size: 1050,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 804, 2
+  size: 61, 40
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+10
+  rotate: true
+  xy: 984, 3
+  size: 80, 53
+  orig: 82, 55
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 804, 347
+  size: 178, 121
+  orig: 180, 123
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 804, 167
+  size: 178, 121
+  orig: 180, 123
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 804, 44
+  size: 178, 121
+  orig: 180, 123
+  offset: 1, 1
+  index: -1
+6
+  rotate: true
+  xy: 927, 347
+  size: 178, 121
+  orig: 180, 123
+  offset: 1, 1
+  index: -1
+7
+  rotate: true
+  xy: 927, 167
+  size: 178, 121
+  orig: 180, 123
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 867, 2
+  size: 61, 40
+  orig: 63, 42
+  offset: 1, 1
+  index: -1
+9
+  rotate: true
+  xy: 984, 85
+  size: 80, 53
+  orig: 82, 55
+  offset: 1, 1
+  index: -1
+guang
+  rotate: false
+  xy: 2, 35
+  size: 659, 490
+  orig: 659, 490
+  offset: 0, 0
+  index: -1
+pingtaiwenzi
+  rotate: true
+  xy: 663, 3
+  size: 522, 139
+  orig: 528, 143
+  offset: 3, 2
+  index: -1

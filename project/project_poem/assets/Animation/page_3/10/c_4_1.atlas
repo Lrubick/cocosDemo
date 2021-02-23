@@ -1,0 +1,69 @@
+
+c_4_1.png
+size: 291,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-zhi10
+  rotate: false
+  xy: 208, 55
+  size: 79, 24
+  orig: 79, 24
+  offset: 0, 0
+  index: -1
+4-zhi2
+  rotate: false
+  xy: 111, 48
+  size: 95, 44
+  orig: 95, 44
+  offset: 0, 0
+  index: -1
+4-zhi3
+  rotate: true
+  xy: 208, 2
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+4-zhi4
+  rotate: false
+  xy: 2, 25
+  size: 92, 40
+  orig: 92, 40
+  offset: 0, 0
+  index: -1
+4-zhi5
+  rotate: false
+  xy: 2, 67
+  size: 107, 74
+  orig: 107, 74
+  offset: 0, 0
+  index: -1
+4-zhi6
+  rotate: true
+  xy: 111, 94
+  size: 47, 118
+  orig: 47, 118
+  offset: 0, 0
+  index: -1
+4-zhi7
+  rotate: false
+  xy: 143, 7
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+4-zhi8
+  rotate: true
+  xy: 96, 3
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+4-zhi9
+  rotate: false
+  xy: 231, 81
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1

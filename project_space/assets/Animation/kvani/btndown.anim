@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "btndown",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.15,
+  "sample": 60,
+  "speed": 0.9,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -592.422
+        },
+        {
+          "frame": 0.6,
+          "value": -574.043
+        },
+        {
+          "frame": 1.15,
+          "value": -590.125
+        }
+      ]
+    }
+  },
+  "events": []
+}

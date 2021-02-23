@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "water",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "56b3ba41-f20e-4401-b426-6f6d49a03475"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "cdfbb965-301c-4769-9631-2ff9030d1f95"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "1f16a05c-2656-45b9-9cf6-7b29af50c61a"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "e4d074d2-1a13-4c3e-af8c-cf6db0c8cbac"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "00bc128d-4c5e-49ef-a8c0-895bc02a21e1"
+            }
+          },
+          {
+            "frame": 1.25,
+            "value": {
+              "__uuid__": "22d91121-e5a0-4eb1-afb8-8fd9edc11ca9"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "8aa9976e-5ca1-425b-b19f-86ee01568c75"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

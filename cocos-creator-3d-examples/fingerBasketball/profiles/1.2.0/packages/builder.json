@@ -1,0 +1,46 @@
+{
+  "common": {
+    "platform": "web-mobile",
+    "orientation": "portrait",
+    "outputName": "web-mobile"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1611126562782": {
+        "id": "web-mobile",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "buildPath": "build",
+          "compileEngineOnly": false,
+          "compressTexture": true,
+          "debug": false,
+          "designHeight": 960,
+          "designWidth": 1280,
+          "embedWebDebugger": false,
+          "inlineSpriteFrames": false,
+          "md5Cache": false,
+          "mergeStartScene": false,
+          "name": "fingerBasketball",
+          "orientation": "portrait",
+          "packAutoAtlas": true,
+          "platform": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/main.scene",
+              "uuid": "cc8b1ef6-f916-417a-8190-455f3e8d1f6b"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "cc8b1ef6-f916-417a-8190-455f3e8d1f6b",
+          "outputName": "web-mobile"
+        },
+        "message": "build success in 93887 ms!"
+      }
+    }
+  },
+  "__version__": "1.2.4",
+  "version": {
+    "builder": "1.2.3"
+  }
+}

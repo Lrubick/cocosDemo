@@ -1,0 +1,696 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "ligth",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 0.6,
+    "wrapMode": 2,
+    "events": [],
+    "_duration": 1.2833333333333334,
+    "_keys": [
+      [],
+      [],
+      [],
+      [
+        0,
+        0.6666666666666666,
+        1.2833333333333334
+      ],
+      [],
+      [],
+      [],
+      [
+        0.18333333333333332,
+        0.6833333333333333,
+        1.2333333333333334
+      ],
+      [],
+      [],
+      [],
+      [
+        0,
+        0.5,
+        0.95
+      ],
+      [],
+      [],
+      [],
+      [
+        0.16666666666666666,
+        0.5833333333333334,
+        1.1666666666666667
+      ],
+      [],
+      [],
+      [],
+      [
+        0.06666666666666667,
+        0.5666666666666667,
+        0.9833333333333333
+      ],
+      [],
+      [],
+      [],
+      [
+        0.31666666666666665,
+        0.8166666666666667,
+        1.15
+      ],
+      [],
+      [],
+      [],
+      [
+        0.11666666666666667,
+        0.55,
+        0.95
+      ],
+      [],
+      [],
+      [],
+      [
+        0.3333333333333333,
+        0.7833333333333333,
+        1.2
+      ],
+      [],
+      [],
+      [],
+      [
+        0,
+        0.6333333333333333,
+        1.2833333333333334
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          "r"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 0
+      },
+      {
+        "modifiers": [
+          "g"
+        ],
+        "data": {
+          "keys": 1,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 0
+      },
+      {
+        "modifiers": [
+          "b"
+        ],
+        "data": {
+          "keys": 2,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 0
+      },
+      {
+        "modifiers": [
+          "a"
+        ],
+        "data": {
+          "keys": 3,
+          "values": [
+            0,
+            255,
+            0
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 0
+      },
+      {
+        "modifiers": [
+          "r"
+        ],
+        "data": {
+          "keys": 4,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 1
+      },
+      {
+        "modifiers": [
+          "g"
+        ],
+        "data": {
+          "keys": 5,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 1
+      },
+      {
+        "modifiers": [
+          "b"
+        ],
+        "data": {
+          "keys": 6,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 1
+      },
+      {
+        "modifiers": [
+          "a"
+        ],
+        "data": {
+          "keys": 7,
+          "values": [
+            255,
+            0,
+            255
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 1
+      },
+      {
+        "modifiers": [
+          "r"
+        ],
+        "data": {
+          "keys": 8,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 2
+      },
+      {
+        "modifiers": [
+          "g"
+        ],
+        "data": {
+          "keys": 9,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 2
+      },
+      {
+        "modifiers": [
+          "b"
+        ],
+        "data": {
+          "keys": 10,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 2
+      },
+      {
+        "modifiers": [
+          "a"
+        ],
+        "data": {
+          "keys": 11,
+          "values": [
+            255,
+            0,
+            255
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 2
+      },
+      {
+        "modifiers": [
+          "r"
+        ],
+        "data": {
+          "keys": 12,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 3
+      },
+      {
+        "modifiers": [
+          "g"
+        ],
+        "data": {
+          "keys": 13,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 3
+      },
+      {
+        "modifiers": [
+          "b"
+        ],
+        "data": {
+          "keys": 14,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 3
+      },
+      {
+        "modifiers": [
+          "a"
+        ],
+        "data": {
+          "keys": 15,
+          "values": [
+            255,
+            0,
+            255
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 3
+      },
+      {
+        "modifiers": [
+          "r"
+        ],
+        "data": {
+          "keys": 16,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 4
+      },
+      {
+        "modifiers": [
+          "g"
+        ],
+        "data": {
+          "keys": 17,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 4
+      },
+      {
+        "modifiers": [
+          "b"
+        ],
+        "data": {
+          "keys": 18,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 4
+      },
+      {
+        "modifiers": [
+          "a"
+        ],
+        "data": {
+          "keys": 19,
+          "values": [
+            255,
+            0,
+            255
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 4
+      },
+      {
+        "modifiers": [
+          "r"
+        ],
+        "data": {
+          "keys": 20,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 5
+      },
+      {
+        "modifiers": [
+          "g"
+        ],
+        "data": {
+          "keys": 21,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 5
+      },
+      {
+        "modifiers": [
+          "b"
+        ],
+        "data": {
+          "keys": 22,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 5
+      },
+      {
+        "modifiers": [
+          "a"
+        ],
+        "data": {
+          "keys": 23,
+          "values": [
+            255,
+            0,
+            255
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 5
+      },
+      {
+        "modifiers": [
+          "r"
+        ],
+        "data": {
+          "keys": 24,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 6
+      },
+      {
+        "modifiers": [
+          "g"
+        ],
+        "data": {
+          "keys": 25,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 6
+      },
+      {
+        "modifiers": [
+          "b"
+        ],
+        "data": {
+          "keys": 26,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 6
+      },
+      {
+        "modifiers": [
+          "a"
+        ],
+        "data": {
+          "keys": 27,
+          "values": [
+            255,
+            0,
+            255
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 6
+      },
+      {
+        "modifiers": [
+          "r"
+        ],
+        "data": {
+          "keys": 28,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 7
+      },
+      {
+        "modifiers": [
+          "g"
+        ],
+        "data": {
+          "keys": 29,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 7
+      },
+      {
+        "modifiers": [
+          "b"
+        ],
+        "data": {
+          "keys": 30,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 7
+      },
+      {
+        "modifiers": [
+          "a"
+        ],
+        "data": {
+          "keys": 31,
+          "values": [
+            255,
+            0,
+            255
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 7
+      },
+      {
+        "modifiers": [
+          "r"
+        ],
+        "data": {
+          "keys": 32,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 8
+      },
+      {
+        "modifiers": [
+          "g"
+        ],
+        "data": {
+          "keys": 33,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 8
+      },
+      {
+        "modifiers": [
+          "b"
+        ],
+        "data": {
+          "keys": 34,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 8
+      },
+      {
+        "modifiers": [
+          "a"
+        ],
+        "data": {
+          "keys": 35,
+          "values": [
+            255,
+            0,
+            255
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 8
+      }
+    ],
+    "_commonTargets": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          {
+            "__id__": 2
+          },
+          "color"
+        ]
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 3
+          },
+          {
+            "__id__": 4
+          },
+          "color"
+        ]
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 5
+          },
+          {
+            "__id__": 6
+          },
+          "color"
+        ]
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 7
+          },
+          {
+            "__id__": 8
+          },
+          "color"
+        ]
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 9
+          },
+          {
+            "__id__": 10
+          },
+          "color"
+        ]
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 11
+          },
+          {
+            "__id__": 12
+          },
+          "color"
+        ]
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 13
+          },
+          {
+            "__id__": 14
+          },
+          "color"
+        ]
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 15
+          },
+          {
+            "__id__": 16
+          },
+          "color"
+        ]
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 17
+          },
+          {
+            "__id__": 18
+          },
+          "color"
+        ]
+      }
+    ],
+    "_hash": 1992553620
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "light_1/light_1_1"
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.SpriteComponent"
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "light_5"
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.SpriteComponent"
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "light_2"
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.SpriteComponent"
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "light_3"
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.SpriteComponent"
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "light_4"
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.SpriteComponent"
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "light_6"
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.SpriteComponent"
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "light_7"
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.SpriteComponent"
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "light_8"
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.SpriteComponent"
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "light_bottom"
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.SpriteComponent"
+  }
+]

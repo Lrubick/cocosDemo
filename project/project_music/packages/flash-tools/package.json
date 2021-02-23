@@ -1,0 +1,20 @@
+{
+	"name": "flash-tools",
+	"version": "1.0.0",
+	"description": "Create animation with plist",
+	"author": "kingBook",
+	"main": "main.js",
+	"main-menu": {
+		"Tools/Create anim with config":{
+			"message":"flash-tools:menu-create-anim-with-config"
+		},
+		"Tools/Create anim with images":{
+			"message":"flash-tools:menu-create-anim-with-images"
+		},
+		"Tools/Create node with .anim":{
+			"message":"flash-tools:menu-create-node-with-anim"
+		}
+	},
+	"scene-script":"scene-walker.js"
+	
+}

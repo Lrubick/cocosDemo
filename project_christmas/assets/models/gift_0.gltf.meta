@@ -1,0 +1,75 @@
+{
+  "ver": "2.0.10",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "c9096770-aecd-4fa4-8da8-090fadc71b69",
+  "files": [],
+  "subMetas": {
+    "664ab": {
+      "importer": "gltf-mesh",
+      "uuid": "c9096770-aecd-4fa4-8da8-090fadc71b69@664ab",
+      "displayName": "",
+      "id": "664ab",
+      "name": "圆盒子.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "28bc5": {
+      "importer": "gltf-material",
+      "uuid": "c9096770-aecd-4fa4-8da8-090fadc71b69@28bc5",
+      "displayName": "",
+      "id": "28bc5",
+      "name": "车身.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7bbb5": {
+      "importer": "gltf-scene",
+      "uuid": "c9096770-aecd-4fa4-8da8-090fadc71b69@7bbb5",
+      "displayName": "",
+      "id": "7bbb5",
+      "name": "gift_0.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "c9096770-aecd-4fa4-8da8-090fadc71b69@7bbb5",
+    "assetFinder": {
+      "meshes": [
+        "c9096770-aecd-4fa4-8da8-090fadc71b69@664ab"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "c9096770-aecd-4fa4-8da8-090fadc71b69@28bc5"
+      ],
+      "scenes": [
+        "c9096770-aecd-4fa4-8da8-090fadc71b69@7bbb5"
+      ]
+    }
+  }
+}

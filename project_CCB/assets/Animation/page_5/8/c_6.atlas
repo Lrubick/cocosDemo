@@ -1,0 +1,55 @@
+
+c_6.png
+size: 65,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c6_rain1
+  rotate: false
+  xy: 2, 34
+  size: 25, 25
+  orig: 27, 27
+  offset: 1, 1
+  index: -1
+c6_rain2
+  rotate: false
+  xy: 2, 3
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+c6_rain3
+  rotate: false
+  xy: 2, 74
+  size: 7, 6
+  orig: 9, 8
+  offset: 1, 1
+  index: -1
+c6_rain4
+  rotate: false
+  xy: 11, 61
+  size: 22, 19
+  orig: 25, 21
+  offset: 1, 1
+  index: -1
+c6_rain5
+  rotate: false
+  xy: 35, 60
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+c6_rain6
+  rotate: false
+  xy: 29, 33
+  size: 28, 25
+  orig: 31, 27
+  offset: 1, 1
+  index: -1
+c6_rain7
+  rotate: false
+  xy: 32, 2
+  size: 31, 29
+  orig: 33, 31
+  offset: 1, 1
+  index: -1

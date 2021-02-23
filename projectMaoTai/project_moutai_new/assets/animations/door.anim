@@ -1,0 +1,284 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "door",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 1,
+    "wrapMode": 1,
+    "events": [],
+    "_duration": 1.8333333333333333,
+    "_keys": [
+      [
+        0.6666666666666666,
+        1.5,
+        1.8333333333333333
+      ],
+      [
+        1.8333333333333333
+      ],
+      [
+        1.8333333333333333
+      ],
+      [
+        0.6666666666666666,
+        1.5,
+        1.8333333333333333
+      ],
+      [
+        0.6666666666666666,
+        1.8333333333333333
+      ],
+      [
+        0.6666666666666666,
+        1.8333333333333333
+      ],
+      [],
+      [],
+      [
+        0.016666666666666666,
+        0.6166666666666667
+      ],
+      [],
+      [],
+      [],
+      [
+        0,
+        1.5
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          "x"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            -180.138,
+            -443.37,
+            -443.37
+          ],
+          "easingMethods": {
+            "0": "circIn"
+          }
+        },
+        "commonTarget": 0
+      },
+      {
+        "modifiers": [
+          "y"
+        ],
+        "data": {
+          "keys": 1,
+          "values": [
+            -22.536000000000058
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 0
+      },
+      {
+        "modifiers": [
+          "z"
+        ],
+        "data": {
+          "keys": 2,
+          "values": [
+            0
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 0
+      },
+      {
+        "modifiers": [
+          "x"
+        ],
+        "data": {
+          "keys": 3,
+          "values": [
+            119.341,
+            490.115,
+            490.115
+          ],
+          "easingMethods": {
+            "0": "circIn"
+          }
+        },
+        "commonTarget": 1
+      },
+      {
+        "modifiers": [
+          "y"
+        ],
+        "data": {
+          "keys": 4,
+          "values": [
+            -45.587,
+            -41.35900000000004
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 1
+      },
+      {
+        "modifiers": [
+          "z"
+        ],
+        "data": {
+          "keys": 5,
+          "values": [
+            0,
+            0
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 1
+      },
+      {
+        "modifiers": [
+          "x"
+        ],
+        "data": {
+          "keys": 6,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 2
+      },
+      {
+        "modifiers": [
+          "y"
+        ],
+        "data": {
+          "keys": 7,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 2
+      },
+      {
+        "modifiers": [
+          "z"
+        ],
+        "data": {
+          "keys": 8,
+          "values": [
+            0,
+            -360
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 2
+      },
+      {
+        "modifiers": [
+          "r"
+        ],
+        "data": {
+          "keys": 9,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 3
+      },
+      {
+        "modifiers": [
+          "g"
+        ],
+        "data": {
+          "keys": 10,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 3
+      },
+      {
+        "modifiers": [
+          "b"
+        ],
+        "data": {
+          "keys": 11,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 3
+      },
+      {
+        "modifiers": [
+          "a"
+        ],
+        "data": {
+          "keys": 12,
+          "values": [
+            255,
+            0
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 3
+      }
+    ],
+    "_commonTargets": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "position"
+        ]
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 2
+          },
+          "position"
+        ]
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 3
+          },
+          "eulerAngles"
+        ]
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 4
+          },
+          {
+            "__id__": 5
+          },
+          "color"
+        ]
+      }
+    ],
+    "_hash": 3787889641
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "door_left"
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "door_right"
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "door_right/door_circle"
+  },
+  {
+    "__type__": "cc.animation.HierarchyPath",
+    "path": "enter_bg1"
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.SpriteComponent"
+  }
+]

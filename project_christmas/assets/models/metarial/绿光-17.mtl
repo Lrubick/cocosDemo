@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.Material",
+  "_name": "绿光",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "HAS_SECOND_UV": true
+    }
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {}
+    }
+  ],
+  "_props": [
+    {
+      "albedoScale": {
+        "__type__": "cc.Vec3",
+        "x": 0.549673318862915,
+        "y": 0.819999992847443,
+        "z": 0.114799998700619
+      },
+      "metallic": 0.400000005960464,
+      "roughness": 0.301511347293854,
+      "alphaThreshold": 0
+    }
+  ]
+}

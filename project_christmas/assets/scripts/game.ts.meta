@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "6971ae74-2435-4dc3-9fc2-2f4c6033ca5a",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "importerSettings": 0,
+    "moduleId": "project:///assets/scripts/game.js"
+  }
+}

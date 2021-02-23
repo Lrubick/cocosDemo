@@ -1,0 +1,272 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "starMove",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "unknow": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                116.698,
+                87.807,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                136.141,
+                97.16,
+                0
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                116.698,
+                87.807,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "welfareSociety": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -98.03,
+                280.371,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -123.863,
+                272.3,
+                0
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                -98.03,
+                280.371,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "arena": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                347.371,
+                140.655,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                393.773,
+                140.655,
+                0
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                347.371,
+                140.655,
+                0
+              ]
+            },
+            {
+              "frame": 6.016666666666667,
+              "value": [
+                347.371,
+                140.655,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "mysterious": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                102.573,
+                -182.626,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                124.312,
+                -168.407,
+                0
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                102.573,
+                -182.626,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "secretBase": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -298.232,
+                -396.515,
+                0
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -217.472,
+                -403.707,
+                0
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                -298.232,
+                -396.515,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "starBtn/unknowUiNode/New Button/Background": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "starBtn/welfareSocietyUiNode/New Button/Background": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "starBtn/arenaUiNode/New Button/Background": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "starBtn/mysteriousUiNode/New Button/Background": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 3,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 0
+            },
+            {
+              "frame": 5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "starBtn/secretBaseUiNode/New Button/Background": {
+        "comps": {},
+        "props": {
+          "opacity": [
+            {
+              "frame": 4,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 0
+            },
+            {
+              "frame": 6,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

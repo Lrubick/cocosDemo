@@ -1,0 +1,35 @@
+// Effect Syntax Guide: https://github.com/cocos-creator/docs-3d/blob/master/zh/material-system/effect-syntax.md
+
+CCEffect %{
+  techniques:
+  - name: opaque
+    passes:
+    - vert: general-vs:vert # builtin header
+      frag: unlit-fs:frag
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one_minus_src_alpha
+          blendSrcAlpha: src_alpha
+          blendDstAlpha: one_minus_src_alpha
+      rasterizerState:
+        cullMode: none
+}%
+//第一个shader 正常渲染
+CCProgram unlit-fs %{
+  precision highp float;
+  #include <cc-global>
+  #include <output>
+  #include <cc-local-batch>
+  in vec3 v_position;
+  
+  vec4 frag () {
+    vec4 color = vec4(0.0,0.6,1.0,1.0); 
+    //顶点坐标，法线坐标都是基于世界坐标系的
+    if(v_position.y+sin((v_position.x+cc_time.x)*7.0)/40.0> 0.0){
+        color = vec4(1.0,1.1,1.0,0.4);
+    }
+    return CCFragOutput(color);
+  }
+}%

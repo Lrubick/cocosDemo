@@ -1,0 +1,136 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "enter_arrow",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 1,
+    "wrapMode": 2,
+    "events": [],
+    "_duration": 1,
+    "_keys": [
+      [],
+      [],
+      [],
+      [
+        0,
+        0.5,
+        1
+      ],
+      [],
+      [
+        0,
+        1
+      ],
+      []
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          "r"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 0
+      },
+      {
+        "modifiers": [
+          "g"
+        ],
+        "data": {
+          "keys": 1,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 0
+      },
+      {
+        "modifiers": [
+          "b"
+        ],
+        "data": {
+          "keys": 2,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 0
+      },
+      {
+        "modifiers": [
+          "a"
+        ],
+        "data": {
+          "keys": 3,
+          "values": [
+            255,
+            0,
+            0
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 0
+      },
+      {
+        "modifiers": [
+          "x"
+        ],
+        "data": {
+          "keys": 4,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 1
+      },
+      {
+        "modifiers": [
+          "y"
+        ],
+        "data": {
+          "keys": 5,
+          "values": [
+            -171.521,
+            -149.46
+          ],
+          "easingMethods": {}
+        },
+        "commonTarget": 1
+      },
+      {
+        "modifiers": [
+          "z"
+        ],
+        "data": {
+          "keys": 6,
+          "values": [],
+          "easingMethods": {}
+        },
+        "commonTarget": 1
+      }
+    ],
+    "_commonTargets": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "color"
+        ]
+      },
+      {
+        "modifiers": [
+          "position"
+        ]
+      }
+    ],
+    "_hash": 3743623494
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.SpriteComponent"
+  }
+]

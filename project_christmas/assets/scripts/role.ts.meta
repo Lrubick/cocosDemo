@@ -1,0 +1,16 @@
+{
+  "ver": "2.0.14",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "bbbde217-fc51-498c-a5ba-9908a98da364",
+  "files": [
+    ".js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "importerSettings": 0,
+    "moduleId": "project:///assets/scripts/role.js"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "car",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -473,
+            510
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.0166666666666666,
+          "value": [
+            -72,
+            33
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.5166666666666666,
+          "value": [
+            96,
+            -334
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2.0166666666666666,
+          "value": [
+            240,
+            -691
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2.5166666666666666,
+          "value": [
+            394,
+            -1086
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 3.0166666666666666,
+          "value": [
+            462,
+            -1282
+          ],
+          "motionPath": []
+        }
+      ],
+      "angle": [
+        {
+          "frame": 2.0166666666666666,
+          "value": 0
+        },
+        {
+          "frame": 2.5166666666666666,
+          "value": -10
+        }
+      ]
+    }
+  },
+  "events": []
+}

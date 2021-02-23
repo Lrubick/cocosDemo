@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "94806718-636f-4357-9146-4d43cfb98dd6",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "94806718-636f-4357-9146-4d43cfb98dd6@6c48a",
+      "displayName": "tip_jiangxiang",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "94806718-636f-4357-9146-4d43cfb98dd6"
+      }
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "94806718-636f-4357-9146-4d43cfb98dd6@f9941",
+      "displayName": "tip_jiangxiang",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -1,
+        "offsetY": -52.5,
+        "trimX": 127,
+        "trimY": 152,
+        "width": 494,
+        "height": 2301,
+        "rawWidth": 750,
+        "rawHeight": 2500,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "94806718-636f-4357-9146-4d43cfb98dd6@6c48a",
+        "atlasUuid": ""
+      }
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "redirect": "94806718-636f-4357-9146-4d43cfb98dd6@f9941"
+  }
+}

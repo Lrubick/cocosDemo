@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "numberMove",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.1666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 100
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 250
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 200
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

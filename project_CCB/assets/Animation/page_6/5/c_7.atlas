@@ -1,0 +1,27 @@
+
+c_7.png
+size: 362,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_8liushu1
+  rotate: true
+  xy: 105, 130
+  size: 158, 255
+  orig: 158, 255
+  offset: 0, 0
+  index: -1
+c_8liushu2
+  rotate: false
+  xy: 2, 4
+  size: 101, 284
+  orig: 101, 284
+  offset: 0, 0
+  index: -1
+c_8liushu3
+  rotate: true
+  xy: 105, 2
+  size: 126, 213
+  orig: 126, 213
+  offset: 0, 0
+  index: -1

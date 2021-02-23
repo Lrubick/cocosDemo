@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a9834e45-a7ea-4fb7-86e7-b897b5f624a0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 51,
+  "height": 104,
+  "platformSettings": {},
+  "subMetas": {
+    "soybeanOil": {
+      "ver": "1.0.4",
+      "uuid": "9637bbea-f293-40d2-ba04-b2de19af86e6",
+      "rawTextureUuid": "a9834e45-a7ea-4fb7-86e7-b897b5f624a0",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 51,
+      "height": 104,
+      "rawWidth": 51,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "pro",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 20,
+    "speed": 0.9,
+    "wrapMode": 2,
+    "events": [],
+    "_duration": 0.8,
+    "_keys": [
+      [
+        0,
+        0.05,
+        0.1,
+        0.15,
+        0.2,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "spriteFrame"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__uuid__": "5ceb08f7-d524-454e-9dea-e5afe1150c45@f9941"
+            },
+            {
+              "__uuid__": "1a512118-1984-4b0e-8cb1-baeb1bf53add@f9941"
+            },
+            {
+              "__uuid__": "bb04a399-471b-40e4-add5-16be0e1d10b6@f9941"
+            },
+            {
+              "__uuid__": "45242694-21e8-4690-a120-5eff8ff743c5@f9941"
+            },
+            {
+              "__uuid__": "95d9ef28-45c0-4313-b3c5-f7214124762b@f9941"
+            },
+            {
+              "__uuid__": "0f8b186c-9526-4da9-92c2-f3829dae24cc@f9941"
+            },
+            {
+              "__uuid__": "e4486f4f-137c-4c0f-b249-822f0b5351d0@f9941"
+            },
+            {
+              "__uuid__": "7e756750-0a3c-4fd1-b96c-472df61005e5@f9941"
+            },
+            {
+              "__uuid__": "472d4b8f-7dd7-42ee-9f96-c8c81dc62d29@f9941"
+            },
+            {
+              "__uuid__": "ca9be08f-2367-47a7-b70b-89871a7d2b79@f9941"
+            },
+            {
+              "__uuid__": "0a36a7b2-a81d-436b-ad17-432c2decbcba@f9941"
+            },
+            {
+              "__uuid__": "bcd827ab-9b49-48aa-8515-ad1c9edea75b@f9941"
+            },
+            {
+              "__uuid__": "e641a735-7fa9-44e8-b23a-15f343153e40@f9941"
+            },
+            {
+              "__uuid__": "8d73a081-4012-4056-9748-0aa5f6e33542@f9941"
+            },
+            {
+              "__uuid__": "42dbb89e-e4aa-4f44-b004-6f10193da8af@f9941"
+            },
+            {
+              "__uuid__": "3ab9804f-8929-4d2a-8ef6-8c622990fd06@f9941"
+            }
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 1839035269
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  }
+]

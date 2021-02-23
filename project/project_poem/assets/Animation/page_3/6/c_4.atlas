@@ -1,0 +1,27 @@
+
+c_4.png
+size: 737,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-cloud2
+  rotate: false
+  xy: 2, 2
+  size: 315, 136
+  orig: 315, 136
+  offset: 0, 0
+  index: -1
+4-cloud876
+  rotate: false
+  xy: 319, 12
+  size: 291, 126
+  orig: 291, 126
+  offset: 0, 0
+  index: -1
+4-sun
+  rotate: false
+  xy: 612, 14
+  size: 123, 124
+  orig: 125, 126
+  offset: 1, 1
+  index: -1

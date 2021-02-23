@@ -1,0 +1,76 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "60d5b00a-3a51-42cc-893a-47bcaae57d7c",
+  "files": [],
+  "subMetas": {
+    "6e55e": {
+      "importer": "gltf-mesh",
+      "uuid": "60d5b00a-3a51-42cc-893a-47bcaae57d7c@6e55e",
+      "displayName": "",
+      "id": "6e55e",
+      "name": "node_id3.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "9cde3": {
+      "importer": "gltf-material",
+      "uuid": "60d5b00a-3a51-42cc-893a-47bcaae57d7c@9cde3",
+      "displayName": "",
+      "id": "9cde3",
+      "name": "Material_30.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "aa365": {
+      "importer": "gltf-scene",
+      "uuid": "60d5b00a-3a51-42cc-893a-47bcaae57d7c@aa365",
+      "displayName": "",
+      "id": "aa365",
+      "name": "car.prefab",
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "60d5b00a-3a51-42cc-893a-47bcaae57d7c@aa365",
+    "assetFinder": {
+      "meshes": [
+        "60d5b00a-3a51-42cc-893a-47bcaae57d7c@6e55e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "60d5b00a-3a51-42cc-893a-47bcaae57d7c@9cde3"
+      ],
+      "scenes": [
+        "60d5b00a-3a51-42cc-893a-47bcaae57d7c@aa365"
+      ]
+    },
+    "legacyFbxImporter": true
+  }
+}

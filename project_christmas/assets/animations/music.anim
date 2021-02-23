@@ -1,0 +1,124 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "music",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 20,
+    "speed": 1,
+    "wrapMode": 2,
+    "events": [],
+    "_duration": 1.05,
+    "_keys": [
+      [
+        0,
+        0.05,
+        0.1,
+        0.15,
+        0.2,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        1
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "spriteFrame"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__uuid__": "dad8bb01-041e-4681-9c92-de478b9be12f@f9941"
+            },
+            {
+              "__uuid__": "1ca7adc4-a79a-449e-9eca-49309af5e40f@f9941"
+            },
+            {
+              "__uuid__": "5e62bafd-6448-45d1-8c79-c1db6333de68@f9941"
+            },
+            {
+              "__uuid__": "c958c617-6a21-4c33-b99d-00385842df53@f9941"
+            },
+            {
+              "__uuid__": "2824e21c-5f0c-41e3-a0e5-dc40730be4f5@f9941"
+            },
+            {
+              "__uuid__": "60966f15-35aa-4745-b188-331f8474ea4a@f9941"
+            },
+            {
+              "__uuid__": "f08848c2-01b1-4398-b442-66cc6c824805@f9941"
+            },
+            {
+              "__uuid__": "dabd7c1d-cbf8-4987-9716-4cb2b394413d@f9941"
+            },
+            {
+              "__uuid__": "0d532e3e-a4a8-4add-9e8b-0700a7bb31a0@f9941"
+            },
+            {
+              "__uuid__": "e369c3e8-3ad5-4ad7-95e1-4b6da2671200@f9941"
+            },
+            {
+              "__uuid__": "ceaf88cd-1f52-4818-b59a-cf6b1e6ae3f9@f9941"
+            },
+            {
+              "__uuid__": "4257e4ab-dc18-44e7-a310-0eec993d7608@f9941"
+            },
+            {
+              "__uuid__": "915054a0-946b-4bbd-9f14-3dc6d8d07468@f9941"
+            },
+            {
+              "__uuid__": "558bf360-24be-400a-87e9-f69c70df84f0@f9941"
+            },
+            {
+              "__uuid__": "d23938fd-b45b-49c8-ae1f-9e9404264783@f9941"
+            },
+            {
+              "__uuid__": "b5adc9ef-4307-476a-8b17-8aee4783bfa0@f9941"
+            },
+            {
+              "__uuid__": "0979e8bb-e489-4a0d-ab90-1af92846e9d6@f9941"
+            },
+            {
+              "__uuid__": "a809a72d-d49d-4b7b-a09f-ca62b38d2e4e@f9941"
+            },
+            {
+              "__uuid__": "de2a1a57-be40-4b91-8701-4e4babc634f5@f9941"
+            },
+            {
+              "__uuid__": "524d2ce1-ccd8-4b42-aa5c-0e23027d4b04@f9941"
+            },
+            {
+              "__uuid__": "87771fc5-0da2-4796-8334-efa62142b47c@f9941"
+            }
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 1792593774
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  }
+]

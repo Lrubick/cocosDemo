@@ -1,0 +1,165 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "music",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "spr_music_0": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -26.587,
+                1.481,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -26.587,
+                -7.815,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -26.587,
+                1.481,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "spr_music_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -13.587,
+                -4.605,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -13.587,
+                0.897,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -13.587,
+                -4.605,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "spr_music_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -0.587,
+                8.871,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -0.587,
+                -2.892,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -0.587,
+                8.871,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "spr_music_3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                12.413,
+                1.481,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                12.413,
+                7.552,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                12.413,
+                1.481,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "spr_music_4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                25.413,
+                -2.535,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                25.413,
+                -8.227,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                25.413,
+                -2.535,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

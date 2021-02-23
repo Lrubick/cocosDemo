@@ -1,0 +1,48 @@
+
+c_3.png
+size: 91,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Qingtingtui
+  rotate: true
+  xy: 59, 76
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+Wing ting
+  rotate: false
+  xy: 2, 43
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: false
+  xy: 59, 48
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 2, 5
+  size: 51, 16
+  orig: 51, 16
+  offset: 0, 0
+  index: -1
+chibang3
+  rotate: true
+  xy: 61, 2
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+chibang4
+  rotate: false
+  xy: 2, 23
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: -1

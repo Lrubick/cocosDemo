@@ -1,0 +1,167 @@
+
+rip.png
+size: 162,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yue0s
+  rotate: true
+  xy: 43, 150
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+yue0x
+  rotate: false
+  xy: 120, 42
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+yue1s
+  rotate: false
+  xy: 137, 159
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+yue1x
+  rotate: false
+  xy: 77, 7
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+yue2s
+  rotate: true
+  xy: 2, 113
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+yue2x
+  rotate: true
+  xy: 2, 3
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+yue3s
+  rotate: true
+  xy: 43, 113
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+yue3x
+  rotate: true
+  xy: 84, 80
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+yue4s
+  rotate: false
+  xy: 113, 2
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+yue4x
+  rotate: true
+  xy: 124, 116
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+yue5s
+  rotate: true
+  xy: 2, 43
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+yue5x
+  rotate: false
+  xy: 121, 79
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+yue6s
+  rotate: true
+  xy: 96, 160
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+yue6x
+  rotate: false
+  xy: 2, 76
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+yue7s
+  rotate: true
+  xy: 84, 121
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+yue7x
+  rotate: true
+  xy: 38, 18
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+yue8s
+  rotate: false
+  xy: 42, 35
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+yue8x
+  rotate: false
+  xy: 42, 76
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+yue9s
+  rotate: true
+  xy: 2, 150
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+yue9x
+  rotate: false
+  xy: 81, 43
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+yues
+  rotate: false
+  xy: 2, 227
+  size: 92, 64
+  orig: 94, 66
+  offset: 1, 1
+  index: -1
+yuex
+  rotate: true
+  xy: 96, 199
+  size: 92, 63
+  orig: 94, 65
+  offset: 1, 1
+  index: -1
+yuez
+  rotate: false
+  xy: 2, 189
+  size: 92, 36
+  orig: 94, 38
+  offset: 1, 1
+  index: -1

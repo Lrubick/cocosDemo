@@ -1,0 +1,27 @@
+
+c_4.png
+size: 321,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-wuyub
+  rotate: true
+  xy: 263, 82
+  size: 116, 56
+  orig: 116, 56
+  offset: 0, 0
+  index: -1
+4-wuyun-2
+  rotate: true
+  xy: 194, 2
+  size: 196, 67
+  orig: 196, 67
+  offset: 0, 0
+  index: -1
+yueliang
+  rotate: true
+  xy: 2, 7
+  size: 191, 190
+  orig: 193, 192
+  offset: 1, 1
+  index: -1

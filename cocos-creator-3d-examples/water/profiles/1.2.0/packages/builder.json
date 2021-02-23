@@ -1,0 +1,47 @@
+{
+  "common": {
+    "platform": "web-mobile",
+    "outputName": "web-mobile"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1611132520591": {
+        "id": "web-mobile",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "buildPath": "build",
+          "compileEngineOnly": false,
+          "compressTexture": true,
+          "debug": false,
+          "designHeight": 960,
+          "designWidth": 1280,
+          "embedWebDebugger": false,
+          "inlineSpriteFrames": false,
+          "md5Cache": false,
+          "mergeStartScene": false,
+          "name": "water",
+          "orientation": "auto",
+          "packAutoAtlas": true,
+          "platform": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/main.scene",
+              "uuid": "421b94c7-10a9-4cfb-b2ba-2696f33f3441"
+            }
+          ],
+          "separateEngine": false,
+          "showSplashSettings": false,
+          "sourceMaps": false,
+          "startScene": "421b94c7-10a9-4cfb-b2ba-2696f33f3441",
+          "outputName": "web-mobile"
+        },
+        "message": "build success in 169639 ms!"
+      }
+    }
+  },
+  "__version__": "1.2.4",
+  "version": {
+    "builder": "1.2.3"
+  }
+}

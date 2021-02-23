@@ -1,0 +1,13 @@
+
+hd.png
+size: 198,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 194, 192
+  orig: 194, 192
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+c_4.png
+size: 243,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-leaf1
+  rotate: true
+  xy: 2, 2
+  size: 60, 217
+  orig: 60, 217
+  offset: 0, 0
+  index: -1
+4-leaf2
+  rotate: false
+  xy: 2, 64
+  size: 239, 176
+  orig: 239, 181
+  offset: 0, 0
+  index: -1

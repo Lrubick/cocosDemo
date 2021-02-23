@@ -1,0 +1,76 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "228de292-505b-4a17-b11d-9d8d821a6d26",
+  "files": [],
+  "subMetas": {
+    "38b1c": {
+      "importer": "gltf-mesh",
+      "uuid": "228de292-505b-4a17-b11d-9d8d821a6d26@38b1c",
+      "displayName": "",
+      "id": "38b1c",
+      "name": "Vert.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "228de292-505b-4a17-b11d-9d8d821a6d26@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "4efb1": {
+      "importer": "gltf-scene",
+      "uuid": "228de292-505b-4a17-b11d-9d8d821a6d26@4efb1",
+      "displayName": "",
+      "id": "4efb1",
+      "name": "love_heart.prefab",
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "228de292-505b-4a17-b11d-9d8d821a6d26@4efb1",
+    "assetFinder": {
+      "meshes": [
+        "228de292-505b-4a17-b11d-9d8d821a6d26@38b1c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "228de292-505b-4a17-b11d-9d8d821a6d26@ea6e2"
+      ],
+      "scenes": [
+        "228de292-505b-4a17-b11d-9d8d821a6d26@4efb1"
+      ]
+    },
+    "legacyFbxImporter": true
+  }
+}

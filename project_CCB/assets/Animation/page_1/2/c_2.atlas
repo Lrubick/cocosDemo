@@ -1,0 +1,20 @@
+
+c_2.png
+size: 376,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_2
+  rotate: true
+  xy: 2, 2
+  size: 202, 293
+  orig: 202, 293
+  offset: 0, 0
+  index: -1
+c_3
+  rotate: false
+  xy: 297, 89
+  size: 77, 115
+  orig: 77, 115
+  offset: 0, 0
+  index: -1

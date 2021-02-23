@@ -1,0 +1,20 @@
+
+c_2_1.png
+size: 64,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuehua1
+  rotate: false
+  xy: 2, 2
+  size: 51, 46
+  orig: 54, 48
+  offset: 2, 1
+  index: -1
+xuehua2
+  rotate: false
+  xy: 2, 50
+  size: 60, 67
+  orig: 62, 70
+  offset: 1, 2
+  index: -1

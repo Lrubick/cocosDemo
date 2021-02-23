@@ -1,0 +1,14 @@
+{
+  "projectSetting": {},
+  "__version__": "1.2.6",
+  "textureCompressConfig": {
+    "userPreset": {
+      "presetId1613964464001": {
+        "name": "presetId1613964464001",
+        "options": {
+          "web": {}
+        }
+      }
+    }
+  }
+}

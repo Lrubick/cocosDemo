@@ -1,0 +1,90 @@
+
+c_7.png
+size: 369,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_8axiguan
+  rotate: false
+  xy: 234, 184
+  size: 73, 110
+  orig: 73, 110
+  offset: 0, 0
+  index: -1
+c_8glass1
+  rotate: false
+  xy: 123, 103
+  size: 109, 191
+  orig: 111, 193
+  offset: 1, 1
+  index: -1
+c_8glass2
+  rotate: false
+  xy: 2, 94
+  size: 119, 200
+  orig: 121, 202
+  offset: 1, 1
+  index: -1
+c_8grapefruit1
+  rotate: true
+  xy: 234, 116
+  size: 66, 52
+  orig: 68, 54
+  offset: 1, 1
+  index: -1
+c_8grapefruit2
+  rotate: false
+  xy: 107, 14
+  size: 60, 78
+  orig: 62, 80
+  offset: 1, 1
+  index: -1
+c_8ice1
+  rotate: true
+  xy: 288, 119
+  size: 63, 56
+  orig: 65, 58
+  offset: 1, 1
+  index: -1
+c_8ice2
+  rotate: false
+  xy: 312, 15
+  size: 40, 42
+  orig: 42, 44
+  offset: 1, 1
+  index: -1
+c_8ice3
+  rotate: true
+  xy: 309, 185
+  size: 48, 51
+  orig: 50, 53
+  offset: 1, 1
+  index: -1
+c_8ice4
+  rotate: true
+  xy: 312, 59
+  size: 58, 55
+  orig: 60, 57
+  offset: 1, 1
+  index: -1
+c_8ice5
+  rotate: false
+  xy: 309, 235
+  size: 54, 59
+  orig: 56, 61
+  offset: 1, 1
+  index: -1
+c_8juice
+  rotate: true
+  xy: 169, 2
+  size: 99, 141
+  orig: 99, 141
+  offset: 0, 0
+  index: -1
+c_8xiaosan
+  rotate: false
+  xy: 2, 5
+  size: 103, 87
+  orig: 103, 87
+  offset: 0, 0
+  index: -1

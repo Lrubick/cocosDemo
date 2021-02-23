@@ -1,0 +1,48 @@
+
+c_6.png
+size: 311,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c6_chapan
+  rotate: true
+  xy: 299, 54
+  size: 48, 6
+  orig: 50, 8
+  offset: 1, 1
+  index: -1
+c6_coffee
+  rotate: false
+  xy: 274, 2
+  size: 35, 21
+  orig: 37, 23
+  offset: 1, 1
+  index: -1
+c6_dbeijing
+  rotate: true
+  xy: 2, 5
+  size: 97, 200
+  orig: 99, 202
+  offset: 1, 1
+  index: -1
+c6_qi2
+  rotate: false
+  xy: 299, 37
+  size: 4, 15
+  orig: 4, 15
+  offset: 0, 0
+  index: -1
+c6_shafa
+  rotate: false
+  xy: 204, 25
+  size: 93, 77
+  orig: 95, 79
+  offset: 1, 1
+  index: -1
+c6_shafatui
+  rotate: false
+  xy: 204, 2
+  size: 68, 21
+  orig: 70, 23
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,47 @@
+{
+  "common": {
+    "platform": "web-mobile",
+    "md5Cache": true,
+    "orientation": "portrait",
+    "outputName": "web-mobile"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1611131573309": {
+        "id": "web-mobile",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "buildPath": "build",
+          "compressTexture": true,
+          "debug": false,
+          "designHeight": 960,
+          "designWidth": 1280,
+          "embedWebDebugger": false,
+          "forceCombileEngine": false,
+          "inlineSpriteFrames": false,
+          "md5Cache": true,
+          "mergeStartScene": false,
+          "name": "jumpGame",
+          "orientation": "portrait",
+          "packAutoAtlas": true,
+          "platform": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/res/scene/main.scene",
+              "uuid": "0298cd6c-f5e4-40ff-9749-130925342913"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "0298cd6c-f5e4-40ff-9749-130925342913",
+          "outputName": "web-mobile"
+        },
+        "message": "build sucess in 144748 ms!"
+      }
+    }
+  },
+  "__version__": "1.2.4",
+  "version": {
+    "builder": "1.2.3"
+  }
+}

@@ -1,0 +1,64 @@
+// Effect Syntax Guide: https://github.com/cocos-creator/docs-3d/blob/master/zh/material-system/effect-syntax.md
+
+CCEffect %{
+  techniques:
+  - name: opaque
+    passes:
+      #第一个pass
+    - vert: general-vs:vert # builtin header
+      frag: unlit-fs:frag
+      properties: &props
+        mainTexture:    { value: white }
+        mainColor:      { value: [1, 1, 1, 1], editor: { type: color } }
+  - name: transparent
+    passes:
+    - vert: general-vs:vert # builtin header
+      frag: unlit-fs:frag 
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one_minus_src_alpha
+          blendSrcAlpha: src_alpha
+          blendDstAlpha: one_minus_src_alpha
+      rasterizerState:
+        cullMode: brack
+      properties: *props
+}%
+
+
+CCProgram unlit-fs %{
+  precision highp float;
+  #include <output>
+
+  in vec2 v_uv;
+  uniform sampler2D mainTexture;
+  
+  uniform Constant {
+    vec4 mainColor;
+  };
+
+  //从默认的顶点着色器可以看到 
+  //  1.v_position转换到世界坐标系的
+  //  2.v_normal也是转换到世界坐标系 并且已经进行归一化的
+  in vec3 v_position;
+  in vec3 v_normal;
+  vec4 frag () {
+    vec3 color = mainColor.xyz;
+    vec4 col=texture(mainTexture, v_uv);
+    //我们用视角方向和模型顶点法线来进行判断
+    //我们知道最边缘的法线和视角防线是刚好垂直的
+
+    //1.获取视角方向,归一化  (终点-起点)
+    vec3 camerDir=normalize(cc_cameraPos.xyz-v_position.xyz);
+    //2.两个向量的点积值(就是两个向量相乘)
+    //  相称的结果：a·b>0    方向基本相同，夹角在0°到90°之间
+    //             a·b=0    正交，相互垂直  
+    //             a·b<0    方向基本相反，夹角在90°到180°之间 
+    //             a·b=1    同向 平行
+    //             a·b=-1    反向 平行
+    float dotN=dot(v_normal,camerDir);
+    // return CCFragOutput(vec4(color*(1.0-dotN),1.0) *col);
+    return CCFragOutput(col * vec4(color,1.0) * (1.0-dotN));
+  }
+}%

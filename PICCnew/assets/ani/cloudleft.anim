@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cloudleft",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": -214.412
+        },
+        {
+          "frame": 1,
+          "value": -140
+        },
+        {
+          "frame": 2.0166666666666666,
+          "value": -214.412
+        }
+      ]
+    }
+  },
+  "events": []
+}

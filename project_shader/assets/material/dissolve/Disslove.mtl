@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.Material",
+  "_name": "Disslove",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "6447b757-397a-4d56-9919-f75a718bf3b1"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "u_time": 0.5
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+
+c_8.png
+size: 244,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_8hudeibody
+  rotate: false
+  xy: 126, 188
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+c_8hudeichibang1
+  rotate: false
+  xy: 37, 192
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+c_8hudeichibang2
+  rotate: true
+  xy: 164, 187
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+c_8hudeichibang3
+  rotate: true
+  xy: 74, 189
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+c_8hudeichibang4
+  rotate: false
+  xy: 2, 195
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+confirm_bottom
+  rotate: false
+  xy: 2, 2
+  size: 239, 110
+  orig: 241, 112
+  offset: 1, 1
+  index: -1
+confirm_top
+  rotate: false
+  xy: 2, 114
+  size: 240, 71
+  orig: 242, 73
+  offset: 1, 1
+  index: -1

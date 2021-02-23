@@ -1,0 +1,20 @@
+
+c_4.png
+size: 82,35
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoye
+  rotate: false
+  xy: 55, 6
+  size: 25, 27
+  orig: 27, 29
+  offset: 1, 1
+  index: -1
+xiaoye2
+  rotate: false
+  xy: 2, 2
+  size: 51, 31
+  orig: 53, 34
+  offset: 1, 1
+  index: -1

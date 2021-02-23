@@ -1,0 +1,41 @@
+
+c_3.png
+size: 152,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+reqiqiu
+  rotate: true
+  xy: 2, 2
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+sheng1
+  rotate: false
+  xy: 101, 42
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+sheng2
+  rotate: false
+  xy: 101, 6
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: true
+  xy: 135, 46
+  size: 33, 15
+  orig: 36, 18
+  offset: 1, 2
+  index: -1
+yun2
+  rotate: true
+  xy: 136, 11
+  size: 33, 14
+  orig: 35, 16
+  offset: 1, 1
+  index: -1

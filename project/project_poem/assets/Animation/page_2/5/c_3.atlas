@@ -1,0 +1,27 @@
+
+c_3.png
+size: 135,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Z
+  rotate: true
+  xy: 2, 70
+  size: 10, 12
+  orig: 12, 14
+  offset: 1, 1
+  index: -1
+mao
+  rotate: false
+  xy: 2, 2
+  size: 121, 57
+  orig: 121, 57
+  offset: 0, 0
+  index: -1
+maoweiba
+  rotate: false
+  xy: 16, 61
+  size: 117, 19
+  orig: 117, 19
+  offset: 0, 0
+  index: -1

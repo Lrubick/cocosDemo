@@ -1,0 +1,2 @@
+animation         3秒时长
+animation2       4秒时长

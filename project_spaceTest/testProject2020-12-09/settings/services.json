@@ -1,0 +1,20 @@
+{
+	"game": {
+		"name": "未知游戏",
+		"appid": "UNKNOW"
+	},
+	"configs": [
+		{
+			"appid": "676511245",
+			"services": [
+				{
+					"service_id": "303",
+					"enable": false
+				}
+			]
+		},
+		{
+			"appid": "UNKNOW"
+		}
+	]
+}

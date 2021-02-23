@@ -1,0 +1,27 @@
+
+c_4.png
+size: 88,53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qipao
+  rotate: false
+  xy: 2, 2
+  size: 50, 49
+  orig: 52, 51
+  offset: 1, 1
+  index: -1
+qipao1
+  rotate: false
+  xy: 54, 19
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+qipao 2
+  rotate: false
+  xy: 54, 19
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1

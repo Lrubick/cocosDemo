@@ -1,0 +1,13 @@
+
+c_6.png
+size: 17,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c6_qi1
+  rotate: false
+  xy: 2, 2
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1

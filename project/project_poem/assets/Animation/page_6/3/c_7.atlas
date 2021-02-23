@@ -1,0 +1,41 @@
+
+c_7.png
+size: 219,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_8bbeikou
+  rotate: false
+  xy: 103, 99
+  size: 89, 30
+  orig: 91, 32
+  offset: 1, 1
+  index: -1
+c_8bglass
+  rotate: false
+  xy: 103, 131
+  size: 114, 148
+  orig: 116, 150
+  offset: 1, 1
+  index: -1
+c_8bjuice1
+  rotate: false
+  xy: 2, 21
+  size: 106, 44
+  orig: 106, 125
+  offset: 0, 80
+  index: -1
+c_8bjuice2
+  rotate: false
+  xy: 110, 2
+  size: 106, 95
+  orig: 106, 126
+  offset: 0, 0
+  index: -1
+c_8bxiguan
+  rotate: false
+  xy: 2, 67
+  size: 99, 212
+  orig: 101, 214
+  offset: 1, 1
+  index: -1

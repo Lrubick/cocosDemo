@@ -1,0 +1,94 @@
+{
+  "current-scene": "9cf954c7-a1f1-4374-b4f5-3ed5eb59e188",
+  "gizmos-infos": {
+    "is2D": false,
+    "is3DIcon": false,
+    "iconSize": 2,
+    "gridVisible": true,
+    "gridColor": [
+      150,
+      150,
+      150,
+      255
+    ],
+    "iconGizmoSize": 2,
+    "isGridVisible": true,
+    "isIconGizmo3D": false
+  },
+  "camera-infos": {
+    "9cf954c7-a1f1-4374-b4f5-3ed5eb59e188": {
+      "position": {
+        "x": 195.37491593600978,
+        "y": 118.85321530202884,
+        "z": 186.12408467540172
+      },
+      "rotation": {
+        "x": -0.19306714765531874,
+        "y": 0.4958522154854194,
+        "z": 0.11411043839410166,
+        "w": 0.8389484279405658
+      },
+      "viewCenter": {
+        "x": -34.91432731127219,
+        "y": -8.902118194295596,
+        "z": 59.362264826159006
+      }
+    },
+    "f46876e4-e81b-4931-b493-6d367be385e7": {
+      "position": {
+        "x": -474.4332535842178,
+        "y": 597.3054052573692,
+        "z": -608.6184706190256
+      },
+      "rotation": {
+        "w": -0.31437017541872414,
+        "x": 0.05293525624777837,
+        "y": 0.9346655047573147,
+        "z": 0.15738375287791584
+      },
+      "viewCenter": {
+        "x": 88.47360723160546,
+        "y": 274.4619757142185,
+        "z": 133.51556558749508
+      }
+    }
+  },
+  "camera-uuids": [
+    "9cf954c7-a1f1-4374-b4f5-3ed5eb59e188"
+  ],
+  "float-window": {
+    "position": {
+      "cc": {
+        "CameraComponent": {
+          "bottom": 10,
+          "dock": false,
+          "left": null,
+          "right": 10,
+          "top": null
+        },
+        "ParticleSystemComponent": {
+          "bottom": 10,
+          "dock": false,
+          "left": null,
+          "right": 10,
+          "top": null
+        },
+        "Camera": {
+          "bottom": 10,
+          "dock": false,
+          "left": null,
+          "right": 10,
+          "top": null
+        },
+        "ParticleSystem": {
+          "bottom": 10,
+          "dock": false,
+          "left": null,
+          "right": 10,
+          "top": null
+        }
+      }
+    }
+  },
+  "__version__": "1.0.0"
+}

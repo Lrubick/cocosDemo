@@ -1,0 +1,10 @@
+{
+  "state": {
+    "expandUuids": [
+      "db://assets",
+      "ed820e03-2155-411e-bd02-be19c4501168"
+    ],
+    "sortType": "name"
+  },
+  "__version__": "1.0.0"
+}

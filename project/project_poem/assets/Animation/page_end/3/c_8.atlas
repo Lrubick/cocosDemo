@@ -1,0 +1,69 @@
+
+c_8.png
+size: 156,214
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_8womenface2
+  rotate: false
+  xy: 62, 56
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+c_8womenhair2
+  rotate: true
+  xy: 2, 117
+  size: 95, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+c_8womenyifu
+  rotate: true
+  xy: 101, 144
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+caihong10
+  rotate: true
+  xy: 107, 15
+  size: 48, 40
+  orig: 51, 44
+  offset: 1, 3
+  index: -1
+caihong11
+  rotate: true
+  xy: 56, 2
+  size: 52, 49
+  orig: 55, 53
+  offset: 1, 3
+  index: -1
+caihong12
+  rotate: false
+  xy: 101, 93
+  size: 53, 49
+  orig: 56, 55
+  offset: 1, 5
+  index: -1
+caihong13
+  rotate: true
+  xy: 2, 61
+  size: 54, 58
+  orig: 56, 60
+  offset: 1, 1
+  index: -1
+caihong8
+  rotate: false
+  xy: 91, 65
+  size: 40, 26
+  orig: 55, 55
+  offset: 1, 28
+  index: -1
+caihong9
+  rotate: false
+  xy: 2, 10
+  size: 52, 49
+  orig: 55, 54
+  offset: 1, 4
+  index: -1

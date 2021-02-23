@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "queue",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "144d544e-1ff5-4e8b-96da-d46a97fb6355"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "18b11806-d003-4adb-b070-6745d3f4c3c0"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "f4010963-3d5b-4d2a-976e-0c5336e514e2"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "144d544e-1ff5-4e8b-96da-d46a97fb6355"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2,
+      "func": "queueCallBack",
+      "params": []
+    }
+  ]
+}
