@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "dcbe4b2e-7c88-4e39-9930-b6c4e9525bfb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 638,
+  "height": 43,
+  "platformSettings": {},
+  "subMetas": {
+    "守护你的不将就，拥有收获幸福的能量。": {
+      "ver": "1.0.4",
+      "uuid": "83ef3c37-52a7-486b-941d-122312b31f2a",
+      "rawTextureUuid": "dcbe4b2e-7c88-4e39-9930-b6c4e9525bfb",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 638,
+      "height": 43,
+      "rawWidth": 638,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

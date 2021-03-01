@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "balloon3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 86
+        },
+        {
+          "frame": 0.5833333333333334,
+          "value": 91
+        },
+        {
+          "frame": 1.0833333333333333,
+          "value": 84.27272727272727
+        },
+        {
+          "frame": 1.5833333333333333,
+          "value": 86
+        }
+      ]
+    }
+  },
+  "events": []
+}

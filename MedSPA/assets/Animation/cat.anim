@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cat",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            196.806,
+            42.078,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            194.328,
+            44.386,
+            0
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            198.645,
+            40.587,
+            0
+          ]
+        },
+        {
+          "frame": 3.0166666666666666,
+          "value": [
+            196.806,
+            42.078,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

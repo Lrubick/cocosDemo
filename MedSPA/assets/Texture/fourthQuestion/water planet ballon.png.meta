@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2239c0a9-28c9-4ab8-b697-c3a0503b18db",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 223,
+  "height": 270,
+  "platformSettings": {},
+  "subMetas": {
+    "water planet ballon": {
+      "ver": "1.0.4",
+      "uuid": "bc8d79d9-8cd1-4ce0-85d1-0b6cb3cd88e9",
+      "rawTextureUuid": "2239c0a9-28c9-4ab8-b697-c3a0503b18db",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 223,
+      "height": 270,
+      "rawWidth": 223,
+      "rawHeight": 270,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

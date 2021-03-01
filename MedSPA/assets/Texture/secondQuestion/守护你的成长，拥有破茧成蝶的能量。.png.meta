@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c9d867d5-00ff-4605-b4d0-c21d022ad724",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 602,
+  "height": 44,
+  "platformSettings": {},
+  "subMetas": {
+    "守护你的成长，拥有破茧成蝶的能量。": {
+      "ver": "1.0.4",
+      "uuid": "a85baf57-1207-47d5-9ab0-09247731788c",
+      "rawTextureUuid": "c9d867d5-00ff-4605-b4d0-c21d022ad724",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 602,
+      "height": 44,
+      "rawWidth": 602,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

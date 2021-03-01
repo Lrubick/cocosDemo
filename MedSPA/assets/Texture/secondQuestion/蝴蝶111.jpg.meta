@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ccedea7f-3625-4e62-a326-23b798335ef2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 750,
+  "height": 1624,
+  "platformSettings": {},
+  "subMetas": {
+    "蝴蝶111": {
+      "ver": "1.0.4",
+      "uuid": "4d4f73f3-39ba-4485-a579-73d94e41c920",
+      "rawTextureUuid": "ccedea7f-3625-4e62-a326-23b798335ef2",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 750,
+      "height": 1624,
+      "rawWidth": 750,
+      "rawHeight": 1624,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

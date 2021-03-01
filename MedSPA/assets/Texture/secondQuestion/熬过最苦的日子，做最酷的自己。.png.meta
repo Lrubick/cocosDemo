@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cd8b7e29-badf-4e01-a648-24ed677b8d1f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 532,
+  "height": 44,
+  "platformSettings": {},
+  "subMetas": {
+    "熬过最苦的日子，做最酷的自己。": {
+      "ver": "1.0.4",
+      "uuid": "d1548913-7b92-4048-996c-f770c36e3804",
+      "rawTextureUuid": "cd8b7e29-badf-4e01-a648-24ed677b8d1f",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 532,
+      "height": 44,
+      "rawWidth": 532,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

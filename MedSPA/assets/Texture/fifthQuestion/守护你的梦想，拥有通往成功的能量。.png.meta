@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "95b1a868-2455-4d84-817d-4f85da270860",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 602,
+  "height": 44,
+  "platformSettings": {},
+  "subMetas": {
+    "守护你的梦想，拥有通往成功的能量。": {
+      "ver": "1.0.4",
+      "uuid": "781fc371-6bf8-4039-a83d-ef248abe9fbc",
+      "rawTextureUuid": "95b1a868-2455-4d84-817d-4f85da270860",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 602,
+      "height": 44,
+      "rawWidth": 602,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

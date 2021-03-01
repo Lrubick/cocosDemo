@@ -1,0 +1,81 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "butterfly",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.033333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "butterfly": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                210.944,
+                57.63,
+                0
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                210.944,
+                115.63,
+                0
+              ]
+            },
+            {
+              "frame": 3.0166666666666666,
+              "value": [
+                210.944,
+                57.63,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "right": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.5,
+              "value": -169.241
+            },
+            {
+              "frame": 2,
+              "value": -187.241
+            },
+            {
+              "frame": 3.5166666666666666,
+              "value": -169.241
+            }
+          ]
+        }
+      },
+      "left": {
+        "props": {
+          "y": [
+            {
+              "frame": 1.0166666666666666,
+              "value": -91.038
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": -115.038
+            },
+            {
+              "frame": 4.033333333333333,
+              "value": -91.038
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5973f01f-a730-4689-a749-321297fab991",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 602,
+  "height": 43,
+  "platformSettings": {},
+  "subMetas": {
+    "守护你的柔软，拥有为爱强大的能量。": {
+      "ver": "1.0.4",
+      "uuid": "0d3ec5c8-5237-4574-a1ba-c60b6d3d9ea8",
+      "rawTextureUuid": "5973f01f-a730-4689-a749-321297fab991",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 602,
+      "height": 43,
+      "rawWidth": 602,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3cbf38a1-7e6f-499f-b963-6c83618d6019",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 604,
+  "height": 90,
+  "platformSettings": {},
+  "subMetas": {
+    "妈妈也不必时刻坚强， 记得为自己留出一角治愈脆弱的空间。": {
+      "ver": "1.0.4",
+      "uuid": "c13e22e3-ebfe-4da2-b251-d87f6d087cf2",
+      "rawTextureUuid": "3cbf38a1-7e6f-499f-b963-6c83618d6019",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 604,
+      "height": 90,
+      "rawWidth": 604,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

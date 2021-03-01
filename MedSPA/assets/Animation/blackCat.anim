@@ -1,0 +1,84 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "blackCat",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.9833333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": []
+    },
+    "paths": {
+      "Girl": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 55.004
+            },
+            {
+              "frame": 1,
+              "value": 90
+            },
+            {
+              "frame": 2,
+              "value": 55.004
+            }
+          ]
+        }
+      },
+      "cat": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.5,
+              "value": [
+                196.806,
+                42.078,
+                0
+              ]
+            },
+            {
+              "frame": 2.4833333333333334,
+              "value": [
+                177.806,
+                57.078,
+                0
+              ]
+            },
+            {
+              "frame": 3.4833333333333334,
+              "value": [
+                196.806,
+                42.078,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "blackCat": {
+        "props": {
+          "y": [
+            {
+              "frame": 2,
+              "value": -138.844
+            },
+            {
+              "frame": 2.9833333333333334,
+              "value": -148.727
+            },
+            {
+              "frame": 3.9833333333333334,
+              "value": -138.844
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
