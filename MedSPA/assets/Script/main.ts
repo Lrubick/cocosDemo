@@ -25,6 +25,9 @@ export default class main extends cc.Component {
     copywriting: cc.Node[] = [];
 
 
+    @property([cc.Node])
+    copyTitle: cc.Node[] = [];
+
     @property(cc.Node)
     shareNode: cc.Node = null;
 
@@ -102,6 +105,18 @@ export default class main extends cc.Component {
                             .start()
                     }
 
+                    if (this.pageIndex === 2) {
+                        cc.tween(this.questionNode[this.pageIndex - 1].getChildByName("answer").getChildByName("penWu"))
+                            .repeatForever(
+                                cc.tween(this.questionNode[this.pageIndex - 1].getChildByName("answer").getChildByName("penWu"))
+                                    .to(1, { opacity: 0 })
+                                    .delay(1)
+                                    .to(1, { opacity: 255 })
+                                    .start()
+                            )
+                            .start()
+                    }
+
 
                     if (this.pageIndex === 3) {
                         cc.tween(this.questionNode[this.pageIndex - 1].getChildByName("question").getChildByName("tanQi"))
@@ -123,9 +138,15 @@ export default class main extends cc.Component {
 
                     if (this.pageIndex === 5) {
                         cc.tween(this.questionNode[this.pageIndex - 1].getChildByName("answer").getChildByName("penWu"))
-                            .delay(2)
-                            .to(1, { opacity: 255 })
+                            .repeatForever(
+                                cc.tween(this.questionNode[this.pageIndex - 1].getChildByName("answer").getChildByName("penWu"))
+                                    .to(1, { opacity: 0 })
+                                    .delay(1)
+                                    .to(1, { opacity: 255 })
+                                    .start()
+                            )
                             .start()
+
                     }
 
                     if (this.pageIndex === 6) {
@@ -272,6 +293,8 @@ export default class main extends cc.Component {
                     })
                     .start()
 
+
+
                 cc.tween(this.posters.getChildByName("cat"))
                     .repeatForever(
                         cc.tween(this.posters.getChildByName("cat"))
@@ -286,7 +309,7 @@ export default class main extends cc.Component {
 
                 let rand = Math.floor(Math.random() * 4);
 
-                cc.tween(this.posters.getChildByName("star"))
+                cc.tween(this.copyTitle[rand])
                     .to(0.8, { opacity: 255 })
                     .start()
 
@@ -312,9 +335,8 @@ export default class main extends cc.Component {
 
                 break;
             case "tao":
-
+                this.copyToClipBoard();
                 break;
-
         }
     }
 
@@ -327,7 +349,7 @@ export default class main extends cc.Component {
             if (textArea === null) {
                 textArea = document.createElement("textarea");
                 textArea.id = "clipBoard";
-                textArea.textContent = "￥1ZQXcyb2PHb￥";
+                textArea.textContent = "￥55EQcyrszJm￥";
                 document.body.appendChild(textArea);
             }
             textArea.select();
@@ -401,12 +423,13 @@ export default class main extends cc.Component {
         this.posters.getChildByName("tao").active = false;
         this.posters.getChildByName("again").active = false;
         this.posters.getChildByName("share").active = false;
+        this.posters.getChildByName("qr").active = true;
 
         // 执行一次 render，将所渲染的内容渲染到纹理上
         this._camera.render(undefined);
         //到这里，截图就已经完成了
 
-
+        this.posters.getChildByName("qr").active = false;
         this.posters.getChildByName("tao").active = true;
         this.posters.getChildByName("again").active = true;
         this.posters.getChildByName("share").active = true;
@@ -453,12 +476,6 @@ export default class main extends cc.Component {
         img.style.left = "50%";
         img.style.opacity = "0";
         img.style.transform = "translate(-50%,-50%)";
-        // img.onclick = function fun_call() {
-        //     if (self.shareLayout.active == true) {
-        //         // self.node_share.active = false;
-        //         self.shareLayout.active = false;
-        //     }
-        // };
 
 
         //创建按钮div
@@ -533,6 +550,11 @@ export default class main extends cc.Component {
 
         let divGame = document.getElementById("Cocos2dGameContainer");
         divGame.appendChild(div_btn);
+
+        haibao();
+
+
+
         // createErweima();
 
         //截图完成后隐藏

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "556f1cfb-09dd-4676-b675-79d335f16d35",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 194,
+  "height": 249,
+  "platformSettings": {},
+  "subMetas": {
+    "cat purple cute": {
+      "ver": "1.0.4",
+      "uuid": "d5b88ba3-82fa-4f7b-894e-999d377ca2c5",
+      "rawTextureUuid": "556f1cfb-09dd-4676-b675-79d335f16d35",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 194,
+      "height": 249,
+      "rawWidth": 194,
+      "rawHeight": 249,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -245,7 +245,6 @@
     "_parent": {
       "__id__": 2
     },
-    "_id": "9608cbWFmVIM7m6hasLXYV7",
     "_prefab": {
       "__id__": 6
     },
@@ -272,7 +271,8 @@
       "x": 0,
       "y": 0,
       "z": 0
-    }
+    },
+    "_id": "9608cbWFmVIM7m6hasLXYV7"
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -585,7 +585,6 @@
     "_parent": {
       "__id__": 1
     },
-    "_id": "7bPboMIH5MRoxZJDPh3dOO",
     "_prefab": {
       "__id__": 15
     },
@@ -612,7 +611,8 @@
       "x": 0,
       "y": 0,
       "z": 0
-    }
+    },
+    "_id": "7bPboMIH5MRoxZJDPh3dOO"
   },
   {
     "__type__": "cc.PrefabInfo",

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "productCat",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 135.426
+        },
+        {
+          "frame": 1,
+          "value": 147.426
+        },
+        {
+          "frame": 2,
+          "value": 135.426
+        }
+      ]
+    }
+  },
+  "events": []
+}
